@@ -14,7 +14,7 @@ var AppComponent = (function () {
     }
     AppComponent = __decorate([
         core_1.Component({
-            selector: 'header',
+            selector: 'my-index',
             templateUrl: 'app/view/home.html',
         }), 
         __metadata('design:paramtypes', [])

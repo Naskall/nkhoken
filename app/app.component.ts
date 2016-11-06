@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 @Component({
-  selector: 'header',
+  selector: 'my-index',
   templateUrl: 'app/view/home.html',
 
 
